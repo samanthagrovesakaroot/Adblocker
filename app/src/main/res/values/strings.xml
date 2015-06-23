@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">No Ads Beta</string>
+    <string name="apply">Apply Ad Blocking</string>
+    <string name="disable">Disable Ad Blocking</string>
+    <string name="notapplied">Not applied</string>
+    <string name="applied">Applied</string>
+    <string name="applydescription">All host files from the defined sources are downloaded, merged with your own lists and installed as one host file on your system.</string>
+    <string name="disabledescription">Restores the default hosts file on your system.</string>
+</resources>
